@@ -1,0 +1,530 @@
+{
+	"date":"2017-03-09",
+	"drink_datas":[{
+		"cover_url":"@img/cocoImg/logo.png",
+		"drink_id":"100000",
+		"name":"CoCo都可(欢乐颂)",
+		"sold_count":"120",
+		"initial_price":"20",
+		"delivery_fee": "3",
+        "delivery_time": "30分钟",
+        "evaluation_score": "7.5",
+        "food_data":[{
+        	"cover_url":"@img/cocoImg/西米露奶茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"西米露奶茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/西米露巧克力460*460.png",
+        	"drink_id":"100000",
+        	"name":"西米露巧克力",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/仙草冻奶茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"仙草冻奶茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/鲜百香绿茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"鲜百香绿茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/鲜百香双响炮460*460.png",
+        	"drink_id":"100000",
+        	"name":"鲜百香双响炮",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/鲜凤梨晶钻果茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"鲜凤梨晶钻果茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/鲜凤梨绿茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"鲜凤梨绿茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/鲜柠檬红茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"鲜柠檬红茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/鲜柠檬绿茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"鲜柠檬绿茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/鲜芋奶茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"鲜芋奶茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/鲜芋牛奶西米露460*460.png",
+        	"drink_id":"100000",
+        	"name":"鲜芋牛奶西米露",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/鲜芋薏米牛奶460*460.png",
+        	"drink_id":"100000",
+        	"name":"鲜芋薏米牛奶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/香草拿铁460*460.png",
+        	"drink_id":"100000",
+        	"name":"香草拿铁",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/香柚柠檬晶钻果茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"香柚柠檬晶钻果茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/盐奶盖绿茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"盐奶盖绿茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/珍珠拿铁-大杯460*460.png",
+        	"drink_id":"100000",
+        	"name":"珍珠拿铁-大杯",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/意式摩卡咖啡460*460.png",
+        	"drink_id":"100000",
+        	"name":"意式摩卡咖啡",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/珍珠奶茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"珍珠奶茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/珍珠巧克力460*460.png",
+        	"drink_id":"100000",
+        	"name":"珍珠巧克力",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/韩式香柚茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"韩式香柚茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/红豆奶茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"红豆奶茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/红豆巧克力460*460.png",
+        	"drink_id":"100000",
+        	"name":"红豆巧克力",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/焦糖玛奇朵460*460.png",
+        	"drink_id":"100000",
+        	"name":"焦糖玛奇朵",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/金桔柠檬双钻460*460.png",
+        	"drink_id":"100000",
+        	"name":"金桔柠檬双钻",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/金桔柠檬汁460*460.png",
+        	"drink_id":"100000",
+        	"name":"金桔柠檬汁",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/绿茶益菌多460*460.png",
+        	"drink_id":"100000",
+        	"name":"绿茶益菌多",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/芒果欧蕾460*460.png",
+        	"drink_id":"100000",
+        	"name":"芒果欧蕾",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/芒果益菌多460*460.png",
+        	"drink_id":"100000",
+        	"name":"芒果益菌多",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/玫瑰盐奶盖红茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"玫瑰盐奶盖红茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/美式咖啡460*460.png",
+        	"drink_id":"100000",
+        	"name":"美式咖啡",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/美式咖啡460*460.png",
+        	"drink_id":"100000",
+        	"name":"美式咖啡",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/慕斯奶盖红茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"慕斯奶盖红茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/慕斯奶盖绿茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"慕斯奶盖绿茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/拿铁460*460.png",
+        	"drink_id":"100000",
+        	"name":"拿铁",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/奶茶三兄弟460*460.png",
+        	"drink_id":"100000",
+        	"name":"奶茶三兄弟",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/奶盖咖啡460*460.png",
+        	"drink_id":"100000",
+        	"name":"奶盖咖啡",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/柠檬霸460*460.png",
+        	"drink_id":"100000",
+        	"name":"柠檬霸",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/柠檬蜜双钻460*460.png",
+        	"drink_id":"100000",
+        	"name":"柠檬蜜双钻",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/柠檬蜜西米露460*460.png",
+        	"drink_id":"100000",
+        	"name":"柠檬蜜西米露",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/柠檬蜜西米露460*460.png",
+        	"drink_id":"100000",
+        	"name":"柠檬蜜西米露",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/双恋奶茶460*460.png",
+        	"drink_id":"100000",
+        	"name":"双恋奶茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/双拼巧克力460*460.png",
+        	"drink_id":"100000",
+        	"name":"双拼巧克力",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        }]
+	},{
+		"cover_url": "@img/xichaImg/logo.png",
+        "drink_id": 100001,
+        "name": "喜茶(南山总店) ",
+        "sold_count": "111",
+        "initial_price": "15",
+        "delivery_fee": "1",
+        "delivery_time": "20分钟",
+        "evaluation_score": "5.5",
+        "food_data":[{
+        	"cover_url":"@img/cocoImg/香柚柠檬晶钻果茶460*460.png",
+        	"drink_id":"100001",
+        	"name":"香柚柠檬晶钻果茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/盐奶盖绿茶460*460.png",
+        	"drink_id":"100001",
+        	"name":"盐奶盖绿茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/珍珠拿铁-大杯460*460.png",
+        	"drink_id":"100001",
+        	"name":"珍珠拿铁-大杯",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/意式摩卡咖啡460*460.png",
+        	"drink_id":"100001",
+        	"name":"意式摩卡咖啡",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/珍珠奶茶460*460.png",
+        	"drink_id":"100001",
+        	"name":"珍珠奶茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/珍珠巧克力460*460.png",
+        	"drink_id":"100001",
+        	"name":"珍珠巧克力",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        }]
+	},{
+		"cover_url": "@img/YiDianDianImg/logo.png",
+        "drink_id": 100002,
+        "name": "一点点(南山总店) ",
+        "sold_count": "111",
+        "initial_price": "15",
+        "delivery_fee": "1",
+        "delivery_time": "20分钟",
+        "evaluation_score": "5.5",
+        "food_data":[{
+        	"cover_url":"@img/cocoImg/鲜凤梨晶钻果茶460*460.png",
+        	"drink_id":"100002",
+        	"name":"鲜凤梨晶钻果茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/鲜芋薏米牛奶460*460.png",
+        	"drink_id":"100002",
+        	"name":"鲜芋薏米牛奶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/香草拿铁460*460.png",
+        	"drink_id":"100002",
+        	"name":"香草拿铁",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/香柚柠檬晶钻果茶460*460.png",
+        	"drink_id":"100002",
+        	"name":"香柚柠檬晶钻果茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/盐奶盖绿茶460*460.png",
+        	"drink_id":"100002",
+        	"name":"盐奶盖绿茶",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/珍珠拿铁-大杯460*460.png",
+        	"drink_id":"100002",
+        	"name":"珍珠拿铁-大杯",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        },{
+        	"cover_url":"@img/cocoImg/意式摩卡咖啡460*460.png",
+        	"drink_id":"100002",
+        	"name":"意式摩卡咖啡",
+        	"sold_count": "120",
+            "initial_price": "20",
+            "delivery_fee": "3",
+            "delivery_time": "30分钟",
+            "evaluation_score": "7.5"
+        }]
+	}
+	]
+}
