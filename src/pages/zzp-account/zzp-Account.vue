@@ -1,10 +1,10 @@
 <template>
 	<div>
 		<My-head text="我的账号">
-			<a href="#" slot="left-icon">
+			<router-link to="/" slot="left-icon">
 				<!-- <span  class=" icon iconfont icon-angle-double-left"></span> -->
-				<img slot="left-icon" src="../../assets/libs/zzp-img/ic_bar_back_green.png" alt="" />
-			</a>
+				<img src="../../assets/libs/zzp-img/ic_bar_back_green.png" alt="" />
+			</router-link>
 		</My-head>
 		<List text="头像">
 			<img slot="nameL" src="../../assets/libs/zzp-img/kf.png" alt="" />

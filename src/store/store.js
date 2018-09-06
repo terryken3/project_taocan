@@ -9,7 +9,7 @@ Vue.use(Vuex);
 // }
 const store = new Vuex.Store({
 	state: {
-		flag:0
+		flag:"home"
 	},
 	getters: {
 		

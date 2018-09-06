@@ -1,18 +1,15 @@
 <template>
 	<div class="tabbar">
-		<Item @iChange="getVal" txt="首页" mark="home" :selec="selected">
+		<Item txt="首页" mark="home" :selec="selected">
 			<span slot="fontImg" class="iconfont icon-spoon_fork_F"></span>
 		</Item>
-		<Item @iChange="getVal" txt="闪购" mark="find" :selec="selected">
+		<Item txt="闪购" mark="find" :selec="selected">
 			<span slot="fontImg" class="iconfont icon-flashlight_fill"></span>
 		</Item>
-		<!-- <Item @iChange="getVal" txt="扩展" mark="extend" :selec="selected">
-			<span slot="fontImg" class="iconfont icon-shangyi"></span>
-		</Item> -->
-		<Item @iChange="getVal" txt="订单" mark="orders" :selec="selected">
+		<Item txt="订单" mark="orders" :selec="selected">
 			<span slot="fontImg" class="iconfont icon-meishi"></span>
 		</Item>
-		<Item @iChange="getVal" txt="我的" mark="mine" :selec="selected">
+		<Item txt="我的" mark="mine" :selec="selected">
 			<span slot="fontImg" class="iconfont icon-guanliyuan"></span>
 		</Item>
 	</div>
@@ -26,13 +23,18 @@
 		},
 		data() {
 			return {
-				selected:"home"
+				// selected:"home"
+			}
+		},
+		computed:{
+			selected() {
+				return this.$store.state.flag;
 			}
 		},
 		methods:{
-			getVal(val) {
-				this.selected = val;
-			}
+			// getVal(val) {
+			// 	this.selected = val;
+			// }
 		}
 	};
 </script>
